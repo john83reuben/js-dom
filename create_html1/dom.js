@@ -17,7 +17,7 @@
 
  let p = main.querySelector('p');
  p.textContent = "Hello Ivann";
- p.innerHTML = "Ivann John is the <b> greatest<b>";
+ p.innerHTML = "Ivann John Reuben is the <b> greatest<b>";
 
 
  let ul = document.createElement('ul');
