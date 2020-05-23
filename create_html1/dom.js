@@ -11,7 +11,7 @@
 
  let main = document.querySelector('.main');
  let h2 = main.querySelector('h2');
- //console.log(h2);
+ console.log(h2);
  h2.textContent = "Loading Movies";
 
 
